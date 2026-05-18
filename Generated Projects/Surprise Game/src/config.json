@@ -1,0 +1,11 @@
+{
+  "maze_width": 21,
+  "maze_height": 21,
+  "tile_size": 32,
+  "quantum_duration": 3,
+  "quantum_cooldown": 5,
+  "player_speed": 200,
+  "background_color": [30, 30, 30],
+  "wall_color": [0, 0, 150],
+  "floor_color": [200, 200, 200]
+}
